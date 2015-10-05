@@ -1,0 +1,22 @@
+{
+  "name": "HighPointGists",
+  "version": "0.1.0",
+  "homepage": "https://github.com/hp-mobile/gists",
+  "authors": [
+    "HighPoint Developers <support@mhighpoint.com>"
+  ],
+  "description": "Various gists for use by HighPoint",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
